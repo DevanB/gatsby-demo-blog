@@ -1,0 +1,2 @@
+webpackJsonp([0xa853020f6247],{317:function(t,e){t.exports={pathContext:{posts:[{html:"<h1>GOBBBBLEEEEEE</h1>\n<p>Eat food</p>",id:"/Users/devanbeitel/Projects/shopshare-network/website/src/pages/2017-11-23-thanksgiving/index.md absPath of file >>> MarkdownRemark",frontmatter:{date:"2017-11-23T03:15:59.165Z",path:"/happy-thanksgiving",title:"Happy Thanksgiving",excerpt:"Gobble Gobble!",tags:["holiday","fall","turkey"]}}],tagName:"turkey"}}}});
+//# sourceMappingURL=path---tags-turkey-ac89d122c2049ac6b952.js.map

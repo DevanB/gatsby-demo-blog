@@ -1,0 +1,2 @@
+webpackJsonp([0xb7866d93db30],{316:function(e,a){e.exports={pathContext:{posts:[{html:"<h1>ARRRROOOOOOOOOOO</h1>\n<p>It was a clear black night, a clear white moon...</p>",id:"/Users/devanbeitel/Projects/shopshare-network/website/src/pages/2017-10-31-halloween/index.md absPath of file >>> MarkdownRemark",frontmatter:{date:"2017-10-31T03:15:59.165Z",path:"/happy-halloween",title:"Happy Halloween",excerpt:"Great Pumpkin, or Greatest Pumpkin?",tags:["holiday","fall","pumpkin"]}}],tagName:"pumpkin"}}}});
+//# sourceMappingURL=path---tags-pumpkin-a2e129dd4a73dffc6fbf.js.map
